@@ -1,0 +1,8 @@
+{
+    "packageUrl": "http://cdn.axiju.com/hotUpdate/plaza/assets/", 
+    "assets": null, 
+    "remoteVersionUrl": "http://cdn.axiju.com/hotUpdate/plaza/version.manifest", 
+    "version": "2.0.2", 
+    "engineVersion": "Cocos2d-JS v3.15", 
+    "remoteManifestUrl": "http://cdn.axiju.com/hotUpdate/plaza/project.manifest"
+}
