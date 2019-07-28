@@ -1,8 +1,8 @@
 {
-    "packageUrl": "http://cdn.axiju.com/hotUpdate/plaza/assets/", 
+    "packageUrl": "http://cdn.sxxyksw.com/hotUpdate/plaza/assets/", 
     "assets": null, 
-    "remoteVersionUrl": "http://cdn.axiju.com/hotUpdate/plaza/version.manifest", 
-    "version": "2.0.2", 
+    "remoteVersionUrl": "https://raw.githubusercontent.com/daancarry/zxyl/master/zxyl/version.manifest", 
+    "version": "2019-07-28 21:08:49", 
     "engineVersion": "Cocos2d-JS v3.15", 
-    "remoteManifestUrl": "http://cdn.axiju.com/hotUpdate/plaza/project.manifest"
+    "remoteManifestUrl": "https://raw.githubusercontent.com/daancarry/zxyl/master/zxyl/project.manifest"
 }
